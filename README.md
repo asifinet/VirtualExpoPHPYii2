@@ -1,11 +1,11 @@
-Statement
+Virtual Exposition Web application.
 
 The major goal of the project is to deliver a web application, allowing companies to
 book their place in virtual expositions in different exposition events.
+Fully Featured FrontEnd Application as well as Backend Managment system.
 
 
 Functional Description
-
 
 Companies will choose from available events the one they want to take place in, then
 they will choose their stand within the exposition hall from a map and finally they will
@@ -32,8 +32,30 @@ on it.
 9. Finally the company admin receives a report by mail about the users of the stand
 after the event is over.
 
+Technology Used/Features of web app.
 
-Yii 2 Advanced Project Template
+Cross platform works on Laptop/PC also works on mobile devices,responsive design.
+
+Apache server  v2.4.23
+PHP            v5.6.25
+mysql          v5.7.14
+yi2 framework  v2.0.6
+html5/dhtml,
+JQUERY       
+Bootstrap     3.0
+Angular JS    V1.5.8
+Google Map    API
+RESTfull API  JSON
+
+Browser Support 
+IE,Chrome,Firefox.
+Devices supported
+IOS,Android,Windows PCs/Laptop.
+
+
+
+
+Used Yii 2 Advanced Project Template
 ===============================
 
 Yii 2 Advanced Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
