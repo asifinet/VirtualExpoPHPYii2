@@ -1,4 +1,4 @@
-Virtual Exposition Web application.
+Virtual Exposition Web application. 
 
 The major goal of the project is to deliver a web application, allowing companies to
 book their place in virtual expositions in different exposition events.
