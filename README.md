@@ -1,3 +1,38 @@
+Statement
+
+The major goal of the project is to deliver a web application, allowing companies to
+book their place in virtual expositions in different exposition events.
+
+
+Functional Description
+
+
+Companies will choose from available events the one they want to take place in, then
+they will choose their stand within the exposition hall from a map and finally they will
+receive a report about the users who visited their stand on the event after it is over.
+
+1. The home screen displays a map with different event places highlighted on it.
+2. Selecting an event on the map displays the event details (name, location, event
+dates) right below the map and the “Book your place” button become active.
+3. Clicking “Book your place” will take the user to the exposition hall map, it is a virtual
+map for the exposition hall with different stands, which he can navigate through it
+and book his stand.
+4. Booked stands is highlighted as booked, the logo of the booking company will be
+displayed on top of the stand, below it the marketing documents (could be
+downloaded) and the contact details.
+5. Free stands is highlighted as free, and on top of it the price.
+6. The user can select any empty stand to book; clicking on an empty stand shows a
+popup with details of the stand, a real image of it and a “Reserve” button.
+7. Clicking on reserve takes the user to the registration page where he supposed to
+provide: contact details, upload marketing documents, company admin and
+company logo.
+8. Clicking on “Confirm Reservation” reserves the stand for the user, takes him to the
+exposition hall screen viewing the booked stand with the user’s company details
+on it.
+9. Finally the company admin receives a report by mail about the users of the stand
+after the event is over.
+
+
 Yii 2 Advanced Project Template
 ===============================
 
